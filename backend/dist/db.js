@@ -36,7 +36,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.TagModel = exports.UserModel = exports.ContentModel = exports.LinkModel = void 0;
 const mongoose_1 = __importStar(require("mongoose"));
 // 1. ✅ Connect to MongoDB (you should ideally move this to a separate file)
-mongoose_1.default.connect("mongodb+srv://letsgooooooooooooooooo2:ReGCY80Vu4woNCNF@yoyoyoyo.xl3xtkz.mongodb.net/brainly");
+mongoose_1.default.connect("");
 // 2. ✅ Define the User schema
 const UserSchema = new mongoose_1.Schema({
     username: { type: String, unique: true },
