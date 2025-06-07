@@ -1,6 +1,6 @@
 # 🧠 Second Brain App
 
-A full-stack personal knowledge management app built with **TypeScript**, **React**, **Tailwind CSS**, and a backend API. Save, organize, and categorize links from blog posts, tweets, and YouTube videos into your digital "Second Brain." Easily share your curated collections with others in real time.
+A full-stack personal knowledge management app built with **TypeScript**, **React**, **Tailwind CSS**, and a backend API. Save, organize, and categorize links from blog posts, tweets, and YouTube videos into your digital "Second Brain." Easily share your curated collections with others in real time.  
 
 ---
 
